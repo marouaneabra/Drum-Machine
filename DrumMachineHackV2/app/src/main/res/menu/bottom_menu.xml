@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/playBtn"
+        android:icon="@drawable/playblackwhite"
+        android:title="play"/>
+    <item
+        android:id="@+id/loadBtn"
+        android:icon="@drawable/loadfromfile"
+        android:title="load"/>
+    <item
+        android:id="@+id/saveBtn"
+        android:icon="@drawable/savebuttonblackwhite"
+        android:title="save"/>
+</menu>
